@@ -8,6 +8,8 @@
 - Check out my past portfolios [https://aryajati-dev.netlify.app/](https://aryajati-dev.netlify.app/)
 
 - I am a comedian at first, software developer (backend mostly) second.
+  
+- I look forward to start my open source journey.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
