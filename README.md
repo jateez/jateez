@@ -1,21 +1,102 @@
-<h1 align="center">Hi there👋,  Arya here</h1>
-<h3 align="center">This place is where I store stuffs I made for works and fun</h3>
+# Hi, I'm Arya Wibowo Jati
 
-- I’m currently focused on **Bangkit Academy program**
+<pre align="center">
 
-- I’m currently learning **Go, Typescript, DevOps and Cloud services**
+     ██╗ █████╗ ████████╗███████╗███████╗███████╗
+     ██║██╔══██╗╚══██╔══╝██╔════╝██╔════╝╚══███╔╝
+     ██║███████║   ██║   █████╗  █████╗    ███╔╝ 
+██   ██║██╔══██║   ██║   ██╔══╝  ██╔══╝   ███╔╝  
+╚█████╔╝██║  ██║   ██║   ███████╗███████╗███████╗
+ ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝╚══════╝   
+                                       
+</pre>
 
-- Check out my past portfolios [https://aryajati-dev.netlify.app/](https://aryajati-dev.netlify.app/)
+## About Me:
 
-- I am a comedian at first, software developer (backend mostly) second.
+
+- Actively participating in international events and hackathons. (International participation count 6+).
+- I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
+- Doing BSCS from NUML(4/4 CGPA).
+- I got selected for the Stanford code-in-place program and taught Python to international students.
+- Typing speed 80 WPM.
+- Won speed programming competition at Beacon House International College.
+- Won CS50x puzzle day(Solved all 9 out of 9 puzzles).
+- Topped on district level in IKLC(International Kangaroo Linguistic Contest).
+- Aspiring Full Stack developer(currently knows only frontend development).
+- Trainer @icodeguru(for data structures and algorithm)
+- I won the sac race at Punjab College (Both in FScI and FscII).
+- I like watching podcasts and playing games (Not on gadgets like mobile but in reality) and sports.
+
+## Tech Stacks:
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/jateez">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/jateez">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
   
-- I look forward to start my open source journey.
+### Others
+<a href="https://github.com/jateez">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryajati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryajati/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aryajati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aryajati/" height="30" width="40" /></a>
+
+## Connect with me:
+<div align="center">
+    <a href="https://www.linkedin.com/in/jateez/" target="_blank"><img src="https://img.shields.io/badge/-Arya%20Wibowo%20Jati-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:aryawjati@gmail.com"><img src="https://img.shields.io/badge/-aryawjati@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/aryajati/" target="_blank"><img src="https://img.shields.io/badge/-Arya%20Wibowo%20Jati-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://www.x.com/aryawjati/" target="_blank"><img src="https://img.shields.io/badge/@aryawjati-000000?style=flat&logo=x&logoColor=white"> </a>
+</div>
+
+ ## Github Stats:
+<p align="center">
+    <a href="https://github.com/jateez">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jateez&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jateez&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/jateez">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=jateez&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+ <p align="center">
+   <a href="https://github.com/jateez"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=jateez&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
+
+<div id="header" align="center">
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jateez" alt="jateez" /></a> </p>
+  
+<!-- <p align="left"> <a href="https://twitter.com/aryawjati" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+
+ <img src="https://komarev.com/ghpvc/?username=jateez&style=for-the-badge&color=green" alt=""/>
+
+</div>
+
+<h2  align="center">Notable Projects </h2>
