@@ -70,7 +70,7 @@
 ## Connect with me
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/jateez/" target="_blank"><img src="https://img.shields.io/badge/-Arya%20Wibowo%20Jati-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/aryajati/" target="_blank"><img src="https://img.shields.io/badge/-Arya%20Wibowo%20Jati-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:aryawjati@gmail.com"><img src="https://img.shields.io/badge/-aryawjati@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.x.com/aryawjati/" target="_blank"><img src="https://img.shields.io/badge/@aryawjati-000000?style=flat&logo=x&logoColor=white"> </a>
     <a href="https://leetcode.com/u/aryajati/" target="_blank"><img src="https://img.shields.io/badge/-aryajati-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
