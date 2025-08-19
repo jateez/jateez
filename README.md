@@ -4,20 +4,22 @@
 
      ██╗ █████╗ ████████╗███████╗███████╗███████╗
      ██║██╔══██╗╚══██╔══╝██╔════╝██╔════╝╚══███╔╝
-     ██║███████║   ██║   █████╗  █████╗    ███╔╝ 
+     ██║███████║   ██║   █████╗  █████╗    ███╔╝
 ██   ██║██╔══██║   ██║   ██╔══╝  ██╔══╝   ███╔╝  
 ╚█████╔╝██║  ██║   ██║   ███████╗███████╗███████╗
- ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝╚══════╝   
-                                       
+ ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝╚══════╝
+
 </pre>
 
 ## About Me
 
-### Software Engineer who dreams of becoming a comedian
+### Indonesian-Based Software Engineer
 
-- Currently studying computer science at [UB](https://www.ub.ac.id/en/)
-- Proud graduates of from [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) (with distinction) and [Hacktiv8](https://www.hacktiv8.com/) (scholarship and honor awards awardee)
-- I'm working hard to contribute more to communities, including open source projects
+- Proud (soon to be) computer science alumni at [UB](https://www.ub.ac.id/en/)
+- Proud graduates of from [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) and [Hacktiv8](https://www.hacktiv8.com/)
+- Hoping to contribute more to the community (full-time open source contributor one day, hopefully)
+- Learning something new (and breaking something) every day
+- You'll see me building a lot of (toy) projects, few completed, obviously
 - I use (neo)vim btw
 - Want to know more about me? Check [here](#connect-with-me)
 
@@ -30,7 +32,7 @@
 <a href="https://github.com/jateez">
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 </a>
@@ -45,7 +47,6 @@
 </div>
 </a>
   
-
 ## Connect with me
 
 <div align="center">
@@ -53,13 +54,10 @@
     <a target="_blank" href="mailto:aryawjati@gmail.com"><img src="https://img.shields.io/badge/-aryawjati@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.x.com/aryawjati/" target="_blank"><img src="https://img.shields.io/badge/@aryawjati-000000?style=flat&logo=x&logoColor=white"> </a>
     <a href="https://leetcode.com/u/aryajati/" target="_blank"><img src="https://img.shields.io/badge/-aryajati-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-   
+
 </div>
-
-
 
 <div id="header" align="center">
  <img src="https://komarev.com/ghpvc/?username=jateez&style=for-the-badge&color=green" alt=""/>
 
 </div>
-
