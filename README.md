@@ -15,7 +15,7 @@
 
 ### Indonesia-Based Software Engineer
 
-- Proud (soon to be) computer science alumni at [UB](https://www.ub.ac.id/en/)
+- Proud computer science alumni at [UB](https://www.ub.ac.id/en/)
 - Proud graduates of from [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) and [Hacktiv8](https://www.hacktiv8.com/)
 - Hoping to contribute more to the community (full-time open source contributor one day, hopefully)
 - Learning something new (and breaking something) every day
