@@ -1,4 +1,4 @@
-# Hi, I'm Arya Wibowo Jati
+# Hi, I'm Arya
 
 <pre align="center">
 
